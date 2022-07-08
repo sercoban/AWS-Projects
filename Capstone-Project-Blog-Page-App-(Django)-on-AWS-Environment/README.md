@@ -12,7 +12,7 @@ The Clarusway Blog Page Application aims to deploy blog application as a web app
 
 - Application is coded by Clarusway Fullstack development team and given you as DevOps team. App allows users to write their own blog page to whom user registration data should be kept in separate MySQL database in AWS RDS service and pictures or videos should be kept in S3 bucket. The object list of S3 Bucket containing movies and videos is recorded on DynamoDB table. 
 
-- The web application will be deployed using Django framework.
+- The web application will be deployed using Django framework
 
 - The Web Application should be accessible via web browser from anywhere in secure.
 
